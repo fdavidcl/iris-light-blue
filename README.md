@@ -1,6 +1,8 @@
 iris-light-blue
 ==========
 
+![Screenshot](screenshot.png)
+
 A light, clean, flat and bold Gtk theme. Forked from [iris-light](http://github.com/xyl0n/iris-light) and converted the accent color into blue.
 
 ### GNOME Shell theme
